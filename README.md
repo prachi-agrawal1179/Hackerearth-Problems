@@ -1,2 +1,5 @@
 # Hackerearth-Problems
-Hackerearth Problems and Solutions
+Hackerearth Problems and Python Solutions
+#python
+#hackerearth
+#python3
